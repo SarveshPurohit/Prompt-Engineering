@@ -1,0 +1,80 @@
+{
+    "personalInformation": {
+      "name": "Rahul Sharma",
+      "contact": {
+        "phone": "+91-9876543210",
+        "email": null
+      },
+      "address": {
+        "street": null,
+        "city": null,
+        "state": null,
+        "zip": null
+      }
+    },
+    "education": [
+      {
+        "institution": "Vishwakarma Institute of Information Technology, Pune",
+        "degree": "Bachelor of Technology",
+        "fieldOfStudy": "Computer Science",
+        "graduationDate": "May 2024"
+      },
+      {
+        "institution": "Rajiv Gandhi Academy of E-Learning, Pune",
+        "degree": "H.S.C. in Science",
+        "fieldOfStudy": null,
+        "graduationDate": "February 2020"
+      },
+      {
+        "institution": "Sahakar Vidya Mandir, Yelgaon, Maharashtra",
+        "degree": null,
+        "fieldOfStudy": null,
+        "graduationDate": "March 2018"
+      }
+    ],
+    "coursework": [
+      "Data Structures & Algorithms",
+      "Object Oriented Programming",
+      "Machine Learning"
+    ],
+    "projects": [
+      {
+        "name": "AI Models for Predicting Diabetes Risk",
+        "technologies": ["Python"],
+        "description": "Analysed machine learning algorithms like K Nearest Neighbors (KNN), Random Forest, and Decision Tree to predict diabetes risk. Presented in ICML 2023 conference."
+      },
+      {
+        "name": "Task Management System",
+        "technologies": ["PHP", "MySQL", "XAMP", "JavaScript", "CSS", "HTML"],
+        "description": "Resolved the problem of managing tasks in the corporate world by creating a backend using XAMP and PHPMYADMIN, and a frontend using JavaScript, CSS, and HTML."
+      },
+      {
+        "name": "Blockchain for Secure Digital Voting",
+        "technologies": ["Blockchain"],
+        "description": "Reviewed various blockchain-based copyright protection platforms, investigated the role of smart contracts, and analysed legal and regulatory challenges associated with blockchain in art."
+      }
+    ],
+    "publications": [],
+    "technicalSkills": {
+      "languages": ["Java", "C++", "SQL", "Python"],
+      "developerTools": ["VS Code", "Jupyter Notebook", "Cisco Packet Tracer"],
+      "technologies": ["Google Colab"]
+    },
+    "certifications": [
+      {
+        "name": "Published a Paper (ICML 2023)",
+        "authority": null,
+        "date": null
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "authority": "Coursera",
+        "date": null
+      },
+      {
+        "name": "AWS Certified Solutions Architect",
+        "authority": "AWS",
+        "date": null
+      }
+    ]
+  }

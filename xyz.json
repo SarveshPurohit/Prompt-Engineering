@@ -1,0 +1,71 @@
+{
+    "personalInformation": {
+      "name": "Sarvesh Purohit",
+      "contact": {
+        "phone": "+91-7840921174",
+        "email": "sarveshapurohit2003@gmail.com"
+      }
+    },
+    "education": [
+      {
+        "institution": "Vishwakarma Institute of Information Technology, Pune",
+        "degree": "Bachelor of Technology",
+        "fieldOfStudy": "Electronics and Telecommunications",
+        "graduationDate": "May 2025"
+      },
+      {
+        "institution": "Rajiv Gandhi Academy of E-Learning, Pune",
+        "degree": "H.S.C. in Science",
+        "graduationDate": "February 2021"
+      },
+      {
+        "institution": "Sahakar Vidya Mandir, Yelgaon, Maharashtra",
+        "degree": "S.S.C.",
+        "graduationDate": "March 2019"
+      }
+    ],
+    "coursework": [
+      "Data Structures & Algorithms",
+      "Object Oriented Programming",
+      "Machine Learning"
+    ],
+    "projects": [
+      {
+        "name": "FarmFin",
+        "technologies": ["Node.js", "Python", "Twilio"],
+        "description": "Enhanced financial inclusion for farmers through SMS-based service. Integrated SMS gateway API for sending daily market prices and weekly financial tips. Implemented backend server for scheduling and sending messages."
+      },
+      {
+        "name": "Chunking the Scraped CUDA Documentation",
+        "technologies": ["BeautifulSoup", "LDA"],
+        "description": "Scraped text data from CUDA documentation up to 5 sublevels using BeautifulSoup library. Performed pre-processing operations like data cleaning, data preparation for further implementation. Used LDA algorithm for chunking the scraped data using LDA model in Gensim."
+      }
+    ],
+    "publications": [
+      {
+        "title": "ML Algorithms for Predicting Risk of Cardiovascular Disease",
+        "date": "February 2024",
+        "conference": "ICETSIS 2024 Conference"
+      }
+    ],
+    "technicalSkills": {
+      "languages": ["Java", "C++", "SQL", "Python"],
+      "developerTools": ["VS Code", "Jupyter Notebook", "Cisco Packet Tracer"],
+      "technologies": ["Node.js", "Scikit-learn", "NumPy", "MySQL"]
+    },
+    "certifications": [
+      {
+        "name": "TOC - Data Structures and Algorithms using Java",
+        "authority": "Infosys Springboard"
+      },
+      {
+        "name": "CCNA Cisco Certified Network Associate Module 1",
+        "authority": "Cisco"
+      },
+      {
+        "name": "IBM Introduction to Cloud Computing",
+        "authority": "Coursera"
+      }
+    ]
+  }
+  
